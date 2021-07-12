@@ -6,4 +6,4 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 # Contenido:
 1. Métodos matemáticos para análisis de algoritmos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Metodos_Matematicos_para_el_Analisis_de_Algoritmos.ipynb)
-6. Árboles binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Arboles_Binarios_Estructuras_de_Datos_Elementales.ipynb)
+2. Árboles binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Arboles_Binarios_Estructuras_de_Datos_Elementales.ipynb)
