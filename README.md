@@ -15,7 +15,5 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
         - Ejercicio [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femunoz/AED/blob/main/Divide_y_vencera%CC%81s.ipynb)
 
     - Programación Dinámica y Backtracking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femunoz/AED/blob/main/Programacio%CC%81n_dina%CC%81mica_y_Backtracking.ipynb)
-        -   Ejercicio monedas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femunoz/AED/blob/main/
-        -   Divide_y_vencera%CC%81s.ipynb)
+        -   Ejercicio monedas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femunoz/AED/blob/main/Cambio_de_monedas_Prog_dina%CC%81mica.ipynb)
 
-Cambio_de_monedas_Prog_dina%CC%81mica.ipynb
