@@ -6,6 +6,8 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 # Contenido:
 
+0. Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/01_Introduccion.ipynb)
+
 1. Pilas, Colas y Colas de Prioridad: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
 
 2. Métodos matemáticos para análisis de algoritmos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Metodos_Matematicos_para_el_Analisis_de_Algoritmos.ipynb)
