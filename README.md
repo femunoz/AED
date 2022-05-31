@@ -8,7 +8,7 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 - Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/00_Introduccion_parte1.ipynb)
 
-- Algoritmos binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/01_Algoritmo-Binario.ipynb)
+- Algoritmos binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/01_Algoritmo_Binario.ipynb)
 
 - Estructuras de datos elementales (arreglos y listas): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/04_Estructuras_de_Datos_Elementales-2.ipynb)
 
