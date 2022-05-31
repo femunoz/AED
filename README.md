@@ -6,7 +6,7 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 # Contenido:
 
-- Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/00_Introduccion_parte1.ipynb)
+- Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/00_Introduccion_v2.ipynb)
 
 - Ejemplos con invariantes y algoritmos binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Ejemplos_con_invariantes_y_algoritmos_binarios.ipynb)
 
