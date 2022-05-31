@@ -12,7 +12,7 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 2. Pilas, Colas y Colas de Prioridad: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
 
-#2. Métodos matemáticos para análisis de algoritmos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Metodos_Matematicos_para_el_Analisis_de_Algoritmos.ipynb)
+// 2. Métodos matemáticos para análisis de algoritmos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Metodos_Matematicos_para_el_Analisis_de_Algoritmos.ipynb)
 
 3. Árboles binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Arboles_Binarios_Estructuras_de_Datos_Elementales.ipynb)
 4. Diseño de algoritmos eficientes: 
