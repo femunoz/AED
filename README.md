@@ -15,8 +15,7 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 - Estructuras de datos elementales (estructuras enlazadas): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/04_Estructuras_de_Datos_Elementales.ipynb) (apunte del profesor Poblete.)
 
 
-    - Ejercicios (árboles y recursividad): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Ejercicios_arboles.ipynb) (apunte del profesor Poblete.)
-
+    - Ejercicios (árboles y recursividad): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Ejercicios_arboles.ipynb) 
 
 
 - Pilas, Colas y Colas de Prioridad: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
