@@ -6,9 +6,11 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 # Contenido:
 
-- Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/00_Introduccion_v2.ipynb)
+- Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/1.introduccion/00_Introduccion_v2.ipynb)
 
-- Ejemplos con invariantes y algoritmos binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Ejemplos_con_invariantes_y_algoritmos_binarios.ipynb)
+- Numpy y arrelos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/2.numpy/03N_umpy.ipynb)
+
+- Ejemplos con invariantes y algoritmos binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/3.arreglos_listas_arboles/Ejemplos_con_invariantes_y_algoritmos_binarios.ipynb)
 
 - Estructuras de datos elementales (arreglos): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/04_Estructuras_de_Datos_Elementales.ipynb)
 
