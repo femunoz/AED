@@ -8,7 +8,7 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 - Introducción: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/1.introduccion/00_Introduccion_v2.ipynb)
 
-- Numpy y arrelos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/2.numpy/03N_umpy.ipynb)
+- Numpy y arrelos: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/2.numpy/03_Numpy.ipynb)
 
 - Ejemplos con invariantes y algoritmos binarios: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/3.arreglos_listas_arboles/Ejemplos_con_invariantes_y_algoritmos_binarios.ipynb)
 
