@@ -25,4 +25,4 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
  - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/03_Diseño_de_Algoritmos_Eficientes.ipynb)
 - Grafos y búsqueda: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/10_Grafos.ipynb)
 
-7.  - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenido/Cambio_de_monedas_Prog_dinámica.ipynb)
+7.  - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/Cambio_de_monedas_Prog_dinámica.ipynb)
