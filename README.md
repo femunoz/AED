@@ -14,15 +14,17 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 4. Estructuras de datos elementales (arreglos y estructuras enlazadas): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/3.arreglos_listas_arboles/Estructuras_de_Datos_Elementales.ipynb)
 
-    4.1. Ejercicios (árboles y recursividad): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Ejercicios_arboles.ipynb) 
+    4.1. Ejercicios (árboles y recursividad): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/Ejercicios_arboles.ipynb) 
 
     4.2. Clase Cadena (vista en clases): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/3.arreglos_listas_arboles/Clase_Cadena.ipynb) 
 
 5. Estructudas de datos avanzadas:
-- Pilas, Colas y Colas de Prioridad: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
+- Pilas, Colas y Colas de Prioridad: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
 
 6. Algoritmos
- - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/03_Diseño_de_Algoritmos_Eficientes.ipynb)
-- Grafos y búsqueda: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/10_Grafos.ipynb)
+ - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/03_Diseño_de_Algoritmos_Eficientes.ipynb)
+- Grafos y búsqueda: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/10_Grafos.ipynb)
 
-7.  - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Cambio_de_monedas_Prog_dinámica.ipynb)
+7.  - Algoritmos eficientes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/Cambio_de_monedas_Prog_din%C3%A1mica.ipynb)
+  
+      
