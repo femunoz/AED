@@ -20,7 +20,7 @@ Apuntes para la asignatura basados con breves modificaciones de los apuntes de P
 
 5. Estructudas de datos avanzadas:
 - Pilas, Colas y Colas de Prioridad: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
-- Diccionarios:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/Colab,_Pilas,_Colas_y_Colas_de_Prioridad.ipynb)
+- Diccionarios:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/femunoz/AED/blob/master/Contenidos/06_Diccionarios.ipynb)
 
 
 6. Algoritmos
